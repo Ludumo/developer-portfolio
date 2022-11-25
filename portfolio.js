@@ -17,7 +17,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	url: "http://localhost:3000/",
+	url: "https://ludumo-toni.netlify.app/",
 	linkedin: "https://www.linkedin.com/in/ludumo-toni/",
 	github: "https://github.com/Ludumo",
 };
