@@ -5,7 +5,7 @@ export const greetings = {
 	name: "Ludumo Toni",
 	title: "Hi all, I'm Ludumo",
 	description:
-		"I'm passionate Full Stack web developer having experience building web applications with React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Truffle and Hardhat Framework.",
+		"As a passionate Full Stack web developer, I have gained expertise in programming with Ruby and have extensive experience building web applications using React.js, Next.js. In addition, I have a strong background in blockchain development, including experience with Ethereum, Solidity, Web3.js, Truffle, and the Hardhat Framework.",
 	resumeLink:
 		"https://drive.google.com/file/d/1O5iz1HwnqhUhwyj0igEsnbwaAov2zAsj/view?usp=sharing",
 };
@@ -25,7 +25,7 @@ export const socialLinks = {
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		"PASSIONATE FULL STACK DEVELOPER WHO WANTS TO EXPLORE BLOCKCHAIN",
+		"Motivated Full Stack developer with a passion for blockchain.",
 	data: [
 		{
 			title: "Full Stack Development",
@@ -35,9 +35,7 @@ export const skillsSection = {
 					"⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
 				),
 				emoji("⚡ Building responsive static websites using Next.js"),
-				emoji(
-					"⚡ Building RESTful APIs in Django & Django REST Framework"
-				),
+				
 			],
 			softwareSkills: [
 				{
@@ -243,12 +241,12 @@ export const projects = [
 	},
 	{
 		name: "Monetary",
-		desc: "crypto wallet interface not connected to blockchain",
+		desc: "crypto wallet interface built with Ruby on the rails framework & JS frontend",
 		github: "https://monettary.herokuapp.com/users/sign_in",
 	},
 	{
 		name: "Dog BnB",
-		desc: "Become a part-time dog owner, based on airbnb model",
+		desc: "Become a part-time dog owner, based on airbnb model built with Ruby on the rails framework",
 		github: "https://dogbnb-lewagon.herokuapp.com/",
 	},
 	{
