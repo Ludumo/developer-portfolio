@@ -7,7 +7,7 @@ export const greetings = {
 	description:
 		"As a passionate Full Stack web developer, I have gained expertise in programming with Ruby and have extensive experience building web applications using React.js, Next.js. In addition, I have a strong background in blockchain development, including experience with Ethereum, Solidity, Web3.js, Truffle, and the Hardhat Framework.",
 	resumeLink:
-		"https://drive.google.com/file/d/1O5iz1HwnqhUhwyj0igEsnbwaAov2zAsj/view?usp=sharing",
+		"https://www.dropbox.com/s/e6ddxd2kkiz160z/Ludumo__Toni_-_Full_Stack_Developer%20%282%29.pdf?dl=0",
 };
 
 export const openSource = {
@@ -274,12 +274,11 @@ export const feedbacks = [
 export const seoData = {
 	title: "Ludumo Toni",
 	description:
-		"A passionate Full Stack Web Developer and Blockchain Developer.",
+		"A passionate Full Stack Web Developer",
 	author: "Ludumo Toni",
 	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
 	url: "https://developer-portfolio-1hanzla100.vercel.app",
 	keywords: [
-		"Hanzla",
 		"Ludumo Toni",
 		"Portfolio",
 		"Ludumo Toni Portfolio",
