@@ -235,24 +235,28 @@ export const experience = [
 
 export const projects = [
 	{
+		name: "Nkosiza-Homes",
+		desc: "A newly founded South African modular housing company which I am happy to be part of built with React Nextjs",
+		link: "https://nkosiza-homes.vercel.app/",
+	},
+	{
 		name: "DApp Token Exchange capstone project",
 		desc: "A decentralized cryptocurrency exchange built on ethereum, solidity language.",
-		github: "https://shy-lab-5606.on.fleek.co/",
+		link: "https://shy-lab-5606.on.fleek.co/",
 	},
 	{
 		name: "Monetary",
 		desc: "crypto wallet interface built with Ruby on the rails framework & JS frontend",
-		github: "https://monettary.herokuapp.com/users/sign_in",
+		link: "https://monettary.herokuapp.com/users/sign_in",
 	},
 	{
 		name: "Dog BnB",
 		desc: "Become a part-time dog owner, based on airbnb model built with Ruby on the rails framework",
-		github: "https://dogbnb-lewagon.herokuapp.com/",
+		link: "https://dogbnb-lewagon.herokuapp.com/",
 	},
 	{
 		name: "developer-portfolio",
 		desc: "Software Developer Portfolio built with react.js and next.js bootstrap.",
-		github: "https://github.com/Ludumo/developer-portfolio",
 		link: " ",
 	},
 ];
