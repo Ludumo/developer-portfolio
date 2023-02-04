@@ -235,9 +235,9 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "Nkosiza-Homes",
-		desc: "A newly founded South African modular housing company which I am happy to be part of built with React Nextjs",
-		link: "https://nkosiza-homes.vercel.app/",
+		name: "Elite Consulting",
+		desc: "A South African consulting company which I built a website for with Nextjs Typescript Styled using Tailwind css",
+		link: "https://eliteconsulting.co.za/",
 	},
 	{
 		name: "DApp Token Exchange capstone project",
