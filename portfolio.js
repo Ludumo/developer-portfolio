@@ -240,6 +240,11 @@ export const projects = [
 		link: "https://eliteconsulting.co.za/",
 	},
 	{
+		name: "Nkosiza Homes Consulting",
+		desc: "A South African modular housing company which I built a website for with Nextjs, Tailwind css",
+		link: "https://www.nkosiza.africa/",
+	},
+	{
 		name: "DApp Token Exchange capstone project",
 		desc: "A decentralized cryptocurrency exchange built on ethereum, solidity language.",
 		link: "https://shy-lab-5606.on.fleek.co/",
