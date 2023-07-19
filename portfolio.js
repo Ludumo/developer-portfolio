@@ -235,28 +235,33 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "Elite Consulting",
-		desc: "A South African consulting company which I built a website for with Nextjs Typescript Styled using Tailwind css",
-		link: "https://eliteconsulting.co.za/",
-	},
-	{
-		name: "Nkosiza Homes Consulting",
-		desc: "A South African modular housing company which I built a website for with Nextjs, Tailwind css",
-		link: "https://www.nkosiza.africa/",
-	},
-	{
 		name: "DApp Token Exchange capstone project",
 		desc: "A decentralized cryptocurrency exchange built on ethereum, solidity language.",
 		link: "https://shy-lab-5606.on.fleek.co/",
 	},
 	{
+		name: "Chance Cafe",
+		desc: "A cafe lounge & cocktail bar in West Berlin, Germany which I built desktop & mobile responsive menu with QR codes etc.",
+		link: "https://chancecafe.de/",
+	},
+	{
+		name: "Elite Consulting",
+		desc: "A South African consulting company which I built a website for with Nextjs Typescript Styled using Tailwind css.",
+		link: "https://eliteconsulting.co.za/",
+	},
+	{
+		name: "Nkosiza Homes Consulting",
+		desc: "A South African modular housing company which I built a website for with Nextjs, Tailwind css.",
+		link: "https://www.nkosiza.africa/",
+	},
+	{
 		name: "Monetary",
-		desc: "crypto wallet interface built with Ruby on the rails framework & JS frontend",
+		desc: "crypto wallet interface built with Ruby on the rails framework & JS frontend.",
 		link: "https://monettary.herokuapp.com/users/sign_in",
 	},
 	{
 		name: "Dog BnB",
-		desc: "Become a part-time dog owner, based on airbnb model built with Ruby on the rails framework",
+		desc: "Become a part-time dog owner, based on airbnb model built with Ruby on the rails framework.",
 		link: "https://dogbnb-lewagon.herokuapp.com/",
 	},
 	{
