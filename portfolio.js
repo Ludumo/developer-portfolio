@@ -201,13 +201,14 @@ export const educationInfo = [
 ];
 
 export const experience = [
-	/* {
+	{
 		role: "Frontend Developer",
-		company: "Duseca Software",
+		company: "Zula",
 		companylogo: "/img/icons/common/dusecaSoftware.jpg",
-		date: "Apr 2022 – Jun 2022",
+		date: "Jun 2023 – Jun 2024",
 		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.",
 	},
+	/* 
 	{
 		role: "API Engineer",
 		company: "Duseca Software",
@@ -242,20 +243,10 @@ export const projects = [
 		github: "https://shy-lab-5606.on.fleek.co/",
 	},
 	{
-		name: "Monetary",
-		desc: "crypto wallet interface not connected to blockchain",
-		github: "https://monettary.herokuapp.com/users/sign_in",
-	},
-	{
-		name: "Dog BnB",
-		desc: "Become a part-time dog owner, based on airbnb model",
-		github: "https://dogbnb-lewagon.herokuapp.com/",
-	},
-	{
-		name: "developer-portfolio",
+		name: "Vertex Technology Group",
 		desc: "Software Developer Portfolio built with react.js and next.js bootstrap.",
-		github: "https://github.com/Ludumo/developer-portfolio",
-		link: " ",
+		github: "https://vrtxtg.com/",
+		link: "https://vrtxtg.com/",
 	},
 ];
 
@@ -281,7 +272,6 @@ export const seoData = {
 	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
 	url: "https://developer-portfolio-1hanzla100.vercel.app",
 	keywords: [
-		"Hanzla",
 		"Ludumo Toni",
 		"Portfolio",
 		"Ludumo Toni Portfolio",
